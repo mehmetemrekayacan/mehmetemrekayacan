@@ -5,7 +5,7 @@
 ## ⚙️ Languages and Tools
 
 <img align="bottom" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218730187-c39cd65d-b64c-4981-8de7-7580cff21d53.png"/>
-<img align="bottom" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218733129-f1ef4b54-89f2-4499-9132-ab200799923b.png"/>
+<img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218733129-f1ef4b54-89f2-4499-9132-ab200799923b.png"/>
 
 
 <!--
