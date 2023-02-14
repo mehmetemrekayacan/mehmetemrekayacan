@@ -16,7 +16,8 @@
 <br />
 <br />
 
-## 🔨 Beginner to these
+## 🔨 Beginner
 
 <img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218744303-3a8c6260-8d3f-4e0d-ab89-37e2db8f108f.png"/>
-
+<img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218744665-b4e54ebf-d7af-4daf-925f-efc68ebe2c08.png"/>
+<img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218744866-a02a77d4-faf1-4dce-82d9-9f707d9677e6.png"/>
