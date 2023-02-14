@@ -1,6 +1,7 @@
 # Hello Guys! 👋
 
 ## I am a Computer Engineer Student 👨‍🎓
+Begginer 🆕
 - Learn Software 💻
 - Write Code 👨‍💻
 
