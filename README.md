@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+[<img align="left" alt="icon | LinkedIn" width="24px" src=![image](https://user-images.githubusercontent.com/116388836/218729603-a54f72f0-26f9-4322-ab02-dea9f0467969.png)/>][icon]
 
 <!--
 **mehmetemrekayacan/mehmetemrekayacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
