@@ -1,6 +1,6 @@
 # Hello Guys! 👋
 
-## I am a Computer Engineer Student 👨‍🎓 \n Begginer 🆕
+## I am a Computer Engineer Student 👨‍🎓  Begginer 🆕
 
 - Learn Software 💻
 - Write Code 👨‍💻
