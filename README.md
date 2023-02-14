@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on GUI Programming 🔘
 - 🌱 I’m currently learning advanced python ⏰
 - 🥅 Goals: Learn artificial intelligence 🧠 and advance in Python 🧑‍💻
-- ⚡ Fun fact: Video Games 🎮, GYM 🔩, Chess ♟️
+- ⚡ Fun fact: Video Games 🎮,  GYM 🔩,  Chess ♟️
 
 ## ⚙️ Languages and Tools
 
