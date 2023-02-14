@@ -16,7 +16,7 @@
 <br />
 <br />
 
-## 🔨 Beginner
+## 🔨 Beginner and Interest
 
 <img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218744303-3a8c6260-8d3f-4e0d-ab89-37e2db8f108f.png"/>
 <img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218744989-20f7d184-e480-41c8-a491-b4cb0dbcfc1d.png"/>
