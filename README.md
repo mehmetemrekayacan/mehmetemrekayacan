@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Logo]([https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png](https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png))
+
 
 <!--
 **mehmetemrekayacan/mehmetemrekayacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
