@@ -1,8 +1,12 @@
-# I am a Computer Engineer Student 👨‍🎓
+#Hello Guys! 👋
 
-<img align="right" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218730187-c39cd65d-b64c-4981-8de7-7580cff21d53.png"/>
+## I am a Computer Engineer Student 👨‍🎓
 
-### Python Developer
+## ⚙️ Languages and Tools
+
+<img align="bottom" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218730187-c39cd65d-b64c-4981-8de7-7580cff21d53.png"/>
+
+
 
 <!--
 **mehmetemrekayacan/mehmetemrekayacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
