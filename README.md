@@ -1,8 +1,8 @@
 # Hello Guys! 👋
 
 ## I am a Computer Engineer Student 👨‍🎓
-- Learning and Apply 📖 ✍️
-- 
+- Learn Software 💻
+- Write Code 👨‍💻
 
 ## ⚙️ Languages and Tools
 
