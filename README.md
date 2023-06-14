@@ -2,7 +2,7 @@
 
 ## I’m a Computer Engineer Student 👨‍🎓
 
-- 🔭 I’m currently working on GUI Programming 🔘
+- 🔭 I’m currently working on Artificial Intelligence 🔘
 - 🌱 I’m currently learning advanced Python ⏰
 - 🥅 Goals: Learn artificial intelligence 🧠 and advance in Python 🧑‍💻
 - ⚡ Fun fact: Video Games 🎮,  GYM 🔩,  Chess ♟️
