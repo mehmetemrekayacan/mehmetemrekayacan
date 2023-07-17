@@ -3,7 +3,7 @@
 ## I’m a Computer Engineer Student 👨‍🎓
 
 - 🔭 I’m currently working on Artificial Intelligence 🔘
-- 🌱 I’m currently learning advanced Python ⏰
+- 🌱 I’m currently learning advanced Python and Finance ⏰
 - 🥅 Goals: Learn artificial intelligence 🧠 and advance in Python 🧑‍💻
 - ⚡ Fun fact: Video Games 🎮,  GYM 🔩,  Chess ♟️
 
