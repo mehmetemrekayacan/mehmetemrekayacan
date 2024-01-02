@@ -25,11 +25,6 @@
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetemrekayacan&layout=compact&theme=highcontrast&hide_border=true" />
-  
-  ###
-  <br>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetemrekayacan&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" />
 </div>
 
 #### Top Repositories
