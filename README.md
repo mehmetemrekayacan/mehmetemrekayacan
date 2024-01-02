@@ -1,23 +1,63 @@
-# Hello Guys! 👋
+<h1 align="center">Hi 👋, I'm Emre.</h1>
 
-## I’m a Computer Engineer Student 👨‍🎓
+###
 
-- 🔭 I’m currently working on Artificial Intelligence 🔘
-- 🌱 I’m currently learning advanced Python and Machine Learning ⏰
-- 🥅 Goals: Learn artificial intelligence 🧠 and advance in Python 🧑‍💻
-- ⚡ Fun fact: Video Games 🎮,  GYM 🔩,  Chess ♟️
+<div align="center">
+  <a href="https://www.linkedin.com/in/mehmet-emre-kayacan-5a4556254/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-## ⚙️ Languages and Tools
+###
 
-<img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218730187-c39cd65d-b64c-4981-8de7-7580cff21d53.png"/>
-<img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218734571-54de43c2-70ac-4c09-babc-097f23d412e3.png"/>
-<img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218742258-ede7b9bc-105b-4351-8401-097865d81e48.png"/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="75" width="100" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="75" width="100" alt="sqlite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="75" width="100" alt="pandas logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="75" width="100" alt="numpy logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="75" width="100" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" height="75" width="100" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="75" width="100" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="75" width="100" alt="java logo"  />
+</div>
 
-<br />
-<br />
+###
 
-## 🔨 Interested In and Beginner Level
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetemrekayacan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218744303-3a8c6260-8d3f-4e0d-ab89-37e2db8f108f.png"/>
-<img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218744989-20f7d184-e480-41c8-a491-b4cb0dbcfc1d.png"/>
-<img align="left" height="48" width="48" src="https://user-images.githubusercontent.com/116388836/218744866-a02a77d4-faf1-4dce-82d9-9f707d9677e6.png"/>
+###
+<br> 
+
+<h2 align="center">Who am I</h2>
+<ul>
+  <li>
+    <h3>100% English Computer Engineering Student with a Full Scholarship🎓</h3>
+  </li>
+  <li>
+    <h3>Hobbies</h3>
+    <ul>
+      <li>Video Games🎮</li>
+      <li>Fitness💪</li>
+      <li>Chess♟️</li>
+    </ul>
+  </li>
+  <li>
+    <h3>Read and Watch</h3>
+    <ul>
+      <li>History📜</li>
+      <li>Natural Life🦁</li>
+    </ul>
+  </li>
+</ul>
+
+###
+<br> 
+
+<h3 align="center">I can't know everything but I can learn everything</h3>
+
+
+
+
+
