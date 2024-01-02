@@ -24,11 +24,25 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetemrekayacan&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetemrekayacan&layout=compact&theme=highcontrast&hide_border=true" />
+  
+  ###
+  <br>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetemrekayacan&show_icons=true&include_all_commits=true&theme=highcontrast&hide_border=true" alt="Anurag's github stats" />
 </div>
 
-###
+#### Top Repositories
 <br> 
+
+<a href="https://github.com/mehmetemrekayacan/BlackJack-GUI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=github-readme-stats&theme=highcontrast" />
+</a>
+<a href="https://github.com/mehmetemrekayacan/Turkey-cities-finder-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=github-readme-stats&theme=highcontrast" />
+</a>
+
+##
 
 <h2 align="center">Who am I</h2>
 <ul>
