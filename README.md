@@ -36,10 +36,10 @@
 <br> 
 
 <a href="https://github.com/mehmetemrekayacan/BlackJack-GUI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=github-readme-stats&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=BlackJack-GUI&theme=highcontrast" />
 </a>
 <a href="https://github.com/mehmetemrekayacan/Turkey-cities-finder-game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=github-readme-stats&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=Turkey-cities-finder-game&theme=highcontrast" />
 </a>
 
 ##
