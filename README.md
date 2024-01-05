@@ -52,31 +52,6 @@
 </a>
 
 
-##
-
-<h2 align="center">Who am I</h2>
-<ul>
-  <li>
-    <h3>100% English Computer Engineering Student with a Full Scholarship🎓</h3>
-  </li>
-  <li>
-    <h3>Hobbies</h3>
-    <ul>
-      <li>Video Games🎮</li>
-      <li>Fitness💪</li>
-      <li>Chess♟️</li>
-      <li>Model🛩️🚢</li>
-    </ul>
-  </li>
-  <li>
-    <h3>Read and Watch</h3>
-    <ul>
-      <li>History📜</li>
-      <li>Natural Life🦁</li>
-    </ul>
-  </li>
-</ul>
-
 ###
 <br> 
 
