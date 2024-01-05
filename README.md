@@ -62,6 +62,7 @@
       <li>Video Games🎮</li>
       <li>Fitness💪</li>
       <li>Chess♟️</li>
+      <li>Model🛩️🚢</li>
     </ul>
   </li>
   <li>
