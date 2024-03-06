@@ -46,9 +46,7 @@
 
 #### Top Repositories
 
-<a href="https://github.com/mehmetemrekayacan/Asker-Dogrulama">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=Asker-Dogrulama&theme=highcontrast" />
-</a>
+
 
 <a href="https://github.com/mehmetemrekayacan/8-bit-ALU-Adder-Subtractor">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=8-bit-ALU-Adder-Subtractor&theme=highcontrast" />
