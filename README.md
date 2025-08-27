@@ -37,6 +37,19 @@
 
 
 ###
+
+#### Internships
+
+<a href="https://github.com/mehmetemrekayacan/network-internship">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=network-internship&theme=highcontrast" />
+</a>
+
+<a href="https://github.com/mehmetemrekayacan/Intern">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mehmetemrekayacan&repo=Intern&theme=highcontrast" />
+</a>
+
+
+###
 <br> 
 
 <h3 align="center">I can't know everything but I can learn everything</h3>
