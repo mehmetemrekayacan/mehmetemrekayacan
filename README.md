@@ -19,15 +19,6 @@
 
 <div align="center">
   
-  ### 🚀 GitHub Stats & Streak
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetemrekayacan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=mehmetemrekayacan&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="180" />
-  
-</div>
-
-<div align="center">
-  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehmetemrekayacan&theme=tokyonight" alt="Profile Details" />
   
 </div>
