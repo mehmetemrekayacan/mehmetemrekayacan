@@ -167,67 +167,6 @@
 
 <div align="center">
   
-  ### 💼 Professional Experience
-  
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">👨‍💻 Front-End Development Intern</h3>
-      <p align="center">
-        <b>Anadolu Birlik Holding, IT Dept.</b><br/>
-        <i>Aug 2024 – Sep 2024</i>
-      </p>
-      <ul align="left">
-        <li>Built Invoice Management App (React, JavaScript)</li>
-        <li>Transformed Figma designs into production-ready UI</li>
-        <li>Implemented client-side persistence with localStorage</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔌 Network & System Intern</h3>
-      <p align="center">
-        <b>Süleyman Demirel University, IT Dept.</b><br/>
-        <i>Aug 2025</i>
-      </p>
-      <ul align="left">
-        <li>Configured VLANs and managed Linux VMs</li>
-        <li>Designed firewall rules using OPNsense</li>
-        <li>Supported real-world network troubleshooting</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🌍 Global Volunteer (AIESEC)</h3>
-      <p align="center">
-        <b>SDG Quality Education Program</b><br/>
-        <i>Galati, Romania | Sep 2025 – Oct 2025</i>
-      </p>
-      <ul align="left">
-        <li>Led English workshops on SDG & cultural topics</li>
-        <li>Designed educational materials using Canva</li>
-        <li>Enhanced public speaking and leadership skills</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📚 Education</h3>
-      <p align="center">
-        <b>B.Sc. Computer Engineering</b><br/>
-        <i>Konya Food and Agriculture University</i><br/>
-        Expected: June 2026<br/>
-        GPA: 3.23 / 4.00<br/>
-        100% Academic Scholarship
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  
   <h3>💡 "I may not know everything, but I can learn anything."</h3>
   
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
