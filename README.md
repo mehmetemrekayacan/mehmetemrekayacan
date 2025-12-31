@@ -76,7 +76,7 @@
     <td width="50%" valign="top">
       <h3 align="center">🚀 CampusPlus</h3>
       <div align="center">
-        <a href="https://github.com/mehmetemrekayacan">
+        <a href="https://github.com/frambuaz-crew/kampus_plus">
           <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
