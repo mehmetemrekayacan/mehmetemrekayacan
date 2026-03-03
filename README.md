@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mehmet+Emre+Kayacan!;+Computer+Engineering+Student;+Front-End+Developer;+Network+Engineer;+AI+Enthusiast!;)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mehmet+Emre+Kayacan!;+Computer+Engineering+Senior;+Backend+%26+Systems+Engineer;+Network+Protocol+Designer;+AI+Enthusiast!;)
   
 </div>
 
@@ -29,37 +29,35 @@
   
   ### 🛠️ Tech Stack
   
-  #### Programming & Backend
+  #### Backend & Database
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
   ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-FF6B6B?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-  ![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+  ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
   
-  #### Frontend
+  #### Frontend & Cross-Platform
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+  ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white)
   
-  #### AI & ML
+  #### AI & Automation
+  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
   ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
   ![FAISS](https://img.shields.io/badge/FAISS-FF6B6B?style=for-the-badge&logo=vector-database&logoColor=white)
-  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![EasyOCR](https://img.shields.io/badge/EasyOCR-FFA500?style=for-the-badge&logo=python&logoColor=white)
   
-  #### DevOps & Tools
+  #### DevOps, Networking & Tools
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-  #### Networking & Systems
-  ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
   ![OPNsense](https://img.shields.io/badge/OPNsense-D14836?style=for-the-badge&logo=opnsense&logoColor=white)
+  ![Socket Programming](https://img.shields.io/badge/Socket_Protocols-183A61?style=for-the-badge&logo=codeigniter&logoColor=white)
+  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   
 </div>
 
@@ -74,81 +72,79 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 CampusPlus</h3>
+      <h3 align="center">🚀 KAMPÜS+</h3>
       <div align="center">
         <a href="https://github.com/frambuaz-crew/kampus_plus">
           <img src="https://img.shields.io/badge/View_Project-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
       <p align="center">
-        <b>Full-stack AI-powered educational platform</b>
+        <b>AI-Powered Campus Platform</b>
       </p>
       <p align="center">
-        FastAPI • React • PostgreSQL • Docker • LangChain • FAISS
+        FastAPI • React • PostgreSQL • Docker Compose • FAISS
       </p>
       <ul align="left">
-        <li>Async FastAPI backend with React frontend</li>
-        <li>AI features using vector databases (FAISS) and LLM workflows</li>
-        <li>Integrated LangChain for AI-powered content access</li>
+        <li>Led a 5-person Agile team to build a scalable full-stack platform.</li>
+        <li>Integrated Google Gemini API and FAISS vector database for semantic search.</li>
+        <li>Orchestrated a reproducible multi-container Docker environment.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💬 Hybrid TCP/UDP Network Chat</h3>
+      <h3 align="center">💬 Hybrid TCP/UDP System</h3>
       <div align="center">
         <a href="https://github.com/mehmetemrekayacan/Network_Chat_App">
           <img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge&logo=socket.io&logoColor=white" />
         </a>
       </div>
       <p align="center">
-        <b>Custom network protocol implementation</b>
+        <b>High-Performance Network Protocol</b>
       </p>
       <p align="center">
-        Python • TCP/UDP • Socket Programming • Networking
+        Python • Socket Programming • Custom TCP/UDP
       </p>
       <ul align="left">
-        <li>Custom protocol over TCP/UDP for reliable messaging</li>
-        <li>Peer discovery and reliability mechanisms</li>
-        <li>Network topology discovery tools</li>
+        <li>Achieved ~890 Mbps throughput and sub-1ms latency for 50+ clients.</li>
+        <li>Developed a custom Reliable UDP layer with sequence numbers and ACKs.</li>
+        <li>Implemented dynamic network topology discovery tools.</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🖥️ MIPS Assembly Simulator</h3>
+      <h3 align="center">⏳ zamAn (Cross-Platform)</h3>
       <div align="center">
-        <a href="https://github.com/mehmetemrekayacan/MIPS_Simulator">
-          <img src="https://img.shields.io/badge/View_Project-FFA500?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
-      <p align="center">
-        <b>MIPS architecture simulator for education</b>
-      </p>
-      <p align="center">
-        Python • Tkinter • MIPS Assembly • GUI
-      </p>
-      <ul align="left">
-        <li>MIPS assembly IDE with graphical interface</li>
-        <li>Code editor and real-time memory/register views</li>
-        <li>Step-by-step execution for learning</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔢 8-bit ALU Circuit Design</h3>
-      <div align="center">
-        <a href="https://github.com/mehmetemrekayacan/8-bit-ALU-Adder-Subtractor">
+        <a href="https://github.com/mehmetemrekayacan">
           <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </div>
       <p align="center">
-        <b>Digital logic design project</b>
+        <b>Offline-First Time Tracker App</b>
       </p>
       <p align="center">
-        Verilog • Tinkercad • Digital Design • ALU
+        React 19 • Electron • Capacitor • Supabase
       </p>
       <ul align="left">
-        <li>8-bit ALU circuit for addition/subtraction</li>
-        <li>Designed and simulated using Verilog HDL</li>
-        <li>Validated through comprehensive testing</li>
+        <li>Spans Web, Windows, and Android from a single monolithic codebase.</li>
+        <li>Engineered a custom ID/timestamp merge algorithm to prevent data conflicts.</li>
+        <li>Seamless cloud synchronization with an offline-first architecture.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Scalable OCR Platform</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Confidential_Project-8A2BE2?style=for-the-badge&logo=expensify&logoColor=white" />
+      </div>
+      <p align="center">
+        <b>High-Traffic Processing Backend</b>
+      </p>
+      <p align="center">
+        FastAPI • PostgreSQL • Redis • Docker • EasyOCR
+      </p>
+      <ul align="left">
+        <li>Designed a highly scalable asynchronous backend utilizing Redis for rate-limiting.</li>
+        <li>Engineered a KVKK-compliant, RAM-only OCR pipeline.</li>
+        <li>Optimized system to process 100+ images per minute reliably.</li>
       </ul>
     </td>
   </tr>
