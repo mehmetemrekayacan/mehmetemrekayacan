@@ -89,7 +89,7 @@
           <img src="https://img.shields.io/badge/View_Project-0077B5?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <!-- Buraya kendi Vercel linkini eklemeyi unutma reis -->
-        <a href="SENIN_VERCEL_LINKIN_BURAYA">
+        <a href="https://zam-an.vercel.app/">
           <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" />
         </a>
       </div>
